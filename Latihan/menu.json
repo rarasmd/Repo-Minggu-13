@@ -1,0 +1,32 @@
+[
+    {
+        "nama": "Ayam Penyet Sambal",
+        "harga": 20000,
+        "gambar": "ayam_penyet.jpg"
+    },
+    {
+        "nama": "Bakso Mie",
+        "harga": 15000,
+        "gambar": "bakso.jpg"
+    },
+    {
+        "nama": "Kebab Dading ",
+        "harga": 25000,
+        "gambar": "kebab.jpg"
+    },
+    {
+        "nama": "Mie Goreng Raski ",
+        "harga": 10000,
+        "gambar": "mie.jpg"
+    },
+    {
+        "nama": "Nasi Goreng Spesial",
+        "harga": 35000,
+        "gambar": "nasi_goreng.jpg"
+    },
+    {
+        "nama": "Sushi Nori ",
+        "harga": 50000,
+        "gambar": "susi.jpg"
+    }
+]
